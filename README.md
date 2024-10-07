@@ -1,2 +1,2 @@
 # Consumer
-ConsumerDesafio
+ConsumerDesafio utilizando Maven
